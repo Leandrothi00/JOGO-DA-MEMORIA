@@ -20,11 +20,4 @@ const handleSubmit = (event) => {
 
 input.addEventListener('input', validateInput);
 form.addEventListener('submit', handleSubmit);
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-D
+

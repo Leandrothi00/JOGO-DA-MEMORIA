@@ -3,16 +3,16 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-  'beth',
-  'jerry',
-  'jessica',
-  'morty',
-  'pessoa-passaro',
-  'pickle-rick',
-  'rick',
-  'summer',
-  'meeseeks',
-  'scroopy',
+  'ALTO',
+  'BOB',
+  'LULA',
+  'casa',
+  'patrick',
+  'PEIXE',
+  'PUFF',
+  'foda',
+  'lulu',
+  'maca',
 ];
 
 const createElement = (tag, className) => {
@@ -124,10 +124,4 @@ window.onload = () => {
   startTimer();
   loadGame();
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
+
